@@ -1,0 +1,4 @@
+﻿  client.cpp
+c:\users\李帅\source\repos\client1\client1\client.cpp(84): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+  client1.vcxproj -> C:\Users\李帅\source\repos\client1\Debug\client1.exe
